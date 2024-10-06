@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'Muller';
-	src: url('/fonts/MullerBold.woff2') format('woff2'),
-		url('/fonts/MullerBold.woff') format('woff');
+	src: url('/sadom/fonts/MullerBold.woff2') format('woff2'),
+		url('/sadom/fonts/MullerBold.woff') format('woff');
 	font-display: swap;
 	font-weight: 700;
 	font-style: normal;
@@ -9,8 +9,8 @@
 
 @font-face {
 	font-family: 'Muller';
-	src: url('/fonts/MullerLight.woff2') format('woff2'),
-		url('/fonts/MullerLight.woff') format('woff');
+	src: url('/sadom/fonts/MullerLight.woff2') format('woff2'),
+		url('/sadom/fonts/MullerLight.woff') format('woff');
 	font-display: swap;
 	font-weight: 300;
 	font-style: normal;
@@ -18,8 +18,8 @@
 
 @font-face {
 	font-family: 'Muller';
-	src: url('/fonts/MullerMedium.woff2') format('woff2'),
-		url('/fonts/MullerMedium.woff') format('woff');
+	src: url('/sadom/fonts/MullerMedium.woff2') format('woff2'),
+		url('/sadom/fonts/MullerMedium.woff') format('woff');
 	font-display: swap;
 	font-weight: 500;
 	font-style: normal;
@@ -27,8 +27,8 @@
 
 @font-face {
 	font-family: 'Muller';
-	src: url('/fonts/MullerRegular.woff2') format('woff2'),
-		url('/fonts/MullerRegular.woff') format('woff');
+	src: url('/sadom/fonts/MullerRegular.woff2') format('woff2'),
+		url('/sadom/fonts/MullerRegular.woff') format('woff');
 	font-display: swap;
 	font-weight: normal;
 	font-style: normal;
@@ -248,31 +248,10 @@ a {
   /* opacity: 0.7; */
 }
 .hero__slide1 {
-  background-image: url(/img/hero1.jpeg);
+  background-image: url(/sadom/img/hero1.jpeg);
 }
 .hero__slide2 {
-  background-image: url(/img/hero2.jpeg);
-}
-.hero__slide3 {
-  background-image: url(/img/hero3.jpeg);
-}
-.hero__slide4 {
-  background-image: url(/img/hero4.jpeg);
-}
-.hero__slide5 {
-  background-image: url(/img/hero5.jpeg);
-}
-.hero__slide6 {
-  background-image: url(/img/hero6.jpeg);
-}
-.hero__slide7 {
-  background-image: url(/img/hero7.jpeg);
-}
-.hero__slide8 {
-  background-image: url(/img/hero8.jpeg);
-}
-.hero__slide9 {
-  background-image: url(/img/hero9.jpeg);
+  background-image: url(/sadom/img/hero2.jpeg);
 }
 .main__title {
   font-size: 49px;
